@@ -2,8 +2,9 @@
 
 ### Instructors
 
-* Guillaume Lemaitre, Inria, Paris-Saclay Center for Data Science
-* Joris Van den Bossche, Inria, Paris-Saclay Center for Data Science
+* Guillaume Lemaitre - Inria, Paris-Saclay Center for Data Science
+* Jeremie du Boisberranger - scikit-learn @ fondation Inria
+* Joris Van den Bossche - Inria, Paris-Saclay Center for Data Science
 * and others to come ...
 
 ### Obtaining the Tutorial Material
