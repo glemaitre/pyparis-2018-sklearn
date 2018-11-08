@@ -1,0 +1,124 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# vim
+*.swp
+
+# emacs
+*~
+
+# Visual Studio
+*.sln
+*.pyproj
+*.suo
+*.vs
+.vscode/
+
+# PyCharm
+.idea/
+
+# Cython
+*.pyc
+*.pyo
+__pycache__
+*.so
+*.o
+
+*.egg
+*.egg-info
+
+Cython/Compiler/*.c
+Cython/Plex/*.c
+Cython/Runtime/refnanny.c
+Cython/Tempita/*.c
+Cython/*.c
+
+Tools/*.elc
+
+/TEST_TMP/
+/build/
+/wheelhouse*/
+!tests/build/
+/dist/
+.gitrev
+.coverage
+*.orig
+*.rej
+*.dep
+*.swp
+*~
+
+.ipynb_checkpoints
+docs/build
+
+tags
+TAGS
+MANIFEST
+
+.tox
+
+cythonize.dat
+
+# build documentation
+doc/_build/
+doc/auto_examples/
+doc/generated/
+
+# vscode
+vscode
