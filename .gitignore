@@ -121,4 +121,4 @@ doc/auto_examples/
 doc/generated/
 
 # vscode
-vscode
+.vscode/
