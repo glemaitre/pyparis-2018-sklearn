@@ -46,7 +46,7 @@ If you are using `conda`, you can create a specific environment for this
 tutorial with the following commands:
 
 ```bash
-conda env create environment.yml
+conda env create -f environment.yml
 conda activate pyparis_sklearn  # or source activate pyparis_sklearn
 ```
 
